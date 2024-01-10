@@ -20,6 +20,10 @@ You can install these packages using pip:
 pip install pandas numpy matplotlib scikit-learn
 
 Usage
+
+Data input
+The path to the data must be specified in cell 4 of the notebook.
+
 Plotting Jaw Shape:
 Use the plot_jaw_shape function to visualize the jaw shape at a specific stage.
 
