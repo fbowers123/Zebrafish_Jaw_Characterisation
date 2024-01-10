@@ -1,7 +1,8 @@
 # Zebrafish_Jaw_Characterisation
 This Python script is designed for the analysis and visualization of zebrafish jaw development. It includes
 functionality for plotting jaw shapes at various developmental stages and predicting future shapes using linear
-regression.
+regression. These measurements are essential in determining if genes are involved in jaw development and their contribution to bodyplan development.
+This code can be modified to identify outliers to the 'typical' wildtype developental trajectory, and if this effect is of statisitical significance
 
 Features
 Visualize Jaw Shape: Plot the jaw shape at different developmental stages.
